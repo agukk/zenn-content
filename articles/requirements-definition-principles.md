@@ -3,7 +3,7 @@ title: "要件定義の原則"
 emoji: "📋"
 type: "tech"
 topics: ["design", "backend"]
-published: true
+published: false
 ---
 
 ## 1. 要件定義とは何か

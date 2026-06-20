@@ -3,7 +3,7 @@ title: "Redisをざっくり理解する"
 emoji: "⚡"
 type: "tech"
 topics: ["redis", "cache", "laravel", "php"]
-published: true
+published: false
 ---
 
 ## 一言で言うと

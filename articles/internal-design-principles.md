@@ -3,7 +3,7 @@ title: "内部設計の原則"
 emoji: "⚙️"
 type: "tech"
 topics: ["design", "backend", "database", "laravel"]
-published: true
+published: false
 ---
 
 ## 1. 内部設計とは何か
