@@ -3,7 +3,7 @@ title: "外部設計の原則"
 emoji: "📐"
 type: "tech"
 topics: ["design", "backend"]
-published: false
+published: true
 ---
 
 ## 1. 外部設計とは何か
