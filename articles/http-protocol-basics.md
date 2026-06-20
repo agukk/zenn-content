@@ -3,7 +3,7 @@ title: "HTTPをざっくり理解する"
 emoji: "🌐"
 type: "tech"
 topics: ["http", "network", "web", "backend"]
-published: false
+published: true
 ---
 
 ## 一言で言うと
